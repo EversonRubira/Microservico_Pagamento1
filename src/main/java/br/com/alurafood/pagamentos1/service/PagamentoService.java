@@ -15,6 +15,7 @@ import javax.persistence.EntityNotFoundException;
 
 
 @Service
+
 public class PagamentoService {
 
     @Autowired
